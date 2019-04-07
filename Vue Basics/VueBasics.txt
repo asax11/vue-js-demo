@@ -1,0 +1,4 @@
+This file contain the basics of vue.
+1) v-model is used to bind data with the input as you can  see whatever data we enter
+in the input it will be saved in newAnimal.
+2) @click is substitue for v-on: click or v-on:keyup or any other kind of event listener 
